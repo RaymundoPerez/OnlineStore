@@ -1,0 +1,7 @@
+USUARIO: raymundo
+PASS: bgIl%RQBxYPwwx7XkY
+
+BD
+NAME: wordpress
+USER: wordpressUser
+PASS: is
